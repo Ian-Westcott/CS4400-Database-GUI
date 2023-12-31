@@ -1,5 +1,5 @@
 # CS4400-Database-GUI
-Final Project For Introduction To Database Systems \
+Final Project For Introduction To Database Systems
 ## Project Description
 Given the base database schema, the task was to develop a set of database procedures and views for modification and display of the database contents within given parameters. \
 In addition, a set of basic GUIs were created to allow user input without having to interact directly through MySQL
